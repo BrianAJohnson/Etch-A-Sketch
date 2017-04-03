@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #666;
+  background-color: #eee;
+  height: 100%;
+}
+
+h1, h4, section.controls {
+  margin: 15px;
+}
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container {
+  width: 45%;
+  height: 80%;
+}
+
+.grid {
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  float: left;
+}
